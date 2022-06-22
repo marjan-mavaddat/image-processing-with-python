@@ -46,16 +46,27 @@ Effective factors of hough transform
 Morphology
 ----------
 Binary image
+
 Erosion
+
 Expansion
+
 opening
+
 to close
+
 Border extraction
+
 Gradient
+
 hat top transform
+
 hat down transform
+
 Fill the cavity
-Case
+
 Convex shell
+
 Convex shell contrast with the original image
+
 ر
